@@ -13,8 +13,7 @@ Compilation of Excel projects for data analysis, data analytics and data visuali
 
 ## Datasets
 ---
-+ [refer to Resources folder.]
-
++ [refer to Resources folder.] (https://github.com/Rosy2001/Vrinda-Store-report-2022/raw/refs/heads/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 ## About the DataSet
 ---
 + Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
